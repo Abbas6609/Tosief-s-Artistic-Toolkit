@@ -23,13 +23,13 @@
 ![Avatar Style Image Transformation Result](Snapshots/4.jpg)
 
 
-## **Sketch Style Image Transformation Result**
-### **The snapshot displays the app's capability to convert a photo into a 'Sketch' style. It shows a side-by-side comparison of the original and transformed image, emphasizing the detailed sketch lines and artistic shading.**
-![Sketch Style Image Transformation Result](Snapshots/5.jpg)
+## **Detailed Sketch Style Image Transformation**
+### **This image showcases the app's detailed sketch style transformation. The original color image on the left shows a person in a casual setting, and the right side presents a detailed sketch version, emphasizing fine lines and intricate shading to mimic a hand-drawn sketch.**
+![Detailed Sketch Style Image Transformation](Snapshots/5.jpg)
 
-## **Sketch Style Image Transformation Result**
-### **This snapshot displays the app's capability to convert a photo into a 'Sketch' style. The left side shows the original color image of a person in a casual indoor setting, while the right side presents a transformed sketch version, highlighting detailed lines and artistic shading to create a hand-drawn effect.**
-![Sketch Style Image Transformation Result](Snapshots/6.jpg)
+## **Simple Sketch Style Image Transformation**
+### **This snapshot highlights the simple sketch style transformation. The left side displays the original image, while the right side features a simplified sketch version with clean lines and minimal shading, focusing on basic contours to create a clear, artistic sketch.**
+![Simple Sketch Style Image Transformation](Snapshots/6.jpg)
 
 
 ## **Black and White Image Transformation**
@@ -42,9 +42,9 @@
 ![Sketch and Simple Sketch Style Transformations](Snapshots/8.jpg)
 
 
-## **Sketch and Simple Sketch Style Transformations**
-### **This snapshot presents a comparison between two different sketch styles applied to a photo. It shows the versatility of the app in providing various artistic transformations, from detailed sketches to simpler, more abstract versions.**
-![Background Removal Transformation](Snapshots/7.jpg)
+## **Dynamic Sketch Style Image Transformation**
+### **This image illustrates a dynamic sketch style transformation, offering a more expressive sketch version. The original photo on the left captures a natural expression, while the right side transforms it into a dynamic sketch with bold strokes and varied line thickness, enhancing the visual impact and artistic flair.**
+![Dynamic Sketch Style Image Transformation](Snapshots/9.jpg)
 
 ## **Artistic Transformation of a Lakeside Sunset**
 ### **This image captures the transformation of a breathtaking lakeside sunset into an Avatar-style artistic rendition. The left side of the image showcases the natural beauty of the setting sun over a serene lake, while the right side displays a vibrant, color-enhanced version that highlights the artistic capabilities of the image transformation toolkit.**
