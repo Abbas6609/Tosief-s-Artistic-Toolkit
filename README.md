@@ -10,9 +10,10 @@
 ### **The image shows the main user interface of the Artistic Image Toolkit hosted on a local server. This interface welcomes users and offers them the option to upload images for transformation, emphasizing the app's capability to convert images into different artistic styles using AI.**
 ![Main Interface of the Artistic Image Toolkit](Snapshots/1.jpg)
 
-## **Error in Image Processing**
-### **This image captures an error scenario within the Artistic Image Toolkit, where an image could not be processed successfully. It's important for demonstrating the app's error handling capabilities.**
-![Error in Image Processing](Snapshots/2.jpg)
+## **Transformation Options Interface**
+### **This image demonstrates the user interface of the Artistic Image Toolkit, highlighting the range of transformation options available. Displayed is a dropdown menu with choices including Avatar, Sketch, Sketch Simple, Sketch Complex, Fill Sketch, Remove Background, and Black and White. The interface is designed to be user-friendly, allowing easy access to various artistic styles for transforming an uploaded image.**
+![Transformation Options Interface](Snapshots/2.jpg)
+
 
 ## **Avatar Style Image Transformation Result**
 ### **This snapshot shows the successful transformation of a user's uploaded photo into an 'Avatar' style using the toolkit. It features a before and after comparison, showcasing the app's effectiveness in stylizing images.**
