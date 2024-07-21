@@ -18,9 +18,10 @@
 ### **This snapshot shows the successful transformation of a user's uploaded photo into an 'Avatar' style using the toolkit. It features a before and after comparison, showcasing the app's effectiveness in stylizing images.**
 ![Avatar Style Image Transformation Result](Snapshots/3.jpg)
 
-## **Avatar and Sketch Style Image Transformations**
-### **This image illustrates the app's ability to transform a regular photo into both 'Avatar' and 'Sketch' styles. The side-by-side comparison highlights the distinct artistic features applied by the AI.**
-![Avatar and Sketch Style Image Transformations](Snapshots/4.jpg)
+## Avatar Style Image Transformation Result
+This snapshot shows the successful transformation of a user's uploaded photo into an 'Avatar' style using the toolkit. It features a before and after comparison, showcasing the app's effectiveness in stylizing images. The left side displays the original color image of a person in a casual indoor setting, while the right side presents a stylized avatar version, emphasizing bold colors and outlines to create a distinctive artistic effect.
+![Avatar Style Image Transformation Result](Snapshots/4.jpg)
+
 
 ## **Sketch Style Image Transformation Result**
 ### **The snapshot displays the app's capability to convert a photo into a 'Sketch' style. It shows a side-by-side comparison of the original and transformed image, emphasizing the detailed sketch lines and artistic shading.**
