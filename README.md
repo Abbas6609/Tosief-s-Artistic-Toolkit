@@ -41,8 +41,8 @@
 
 ## **Artistic Transformation of a Lakeside Sunset**
 ### **This image captures the transformation of a breathtaking lakeside sunset into an Avatar-style artistic rendition. The left side of the image showcases the natural beauty of the setting sun over a serene lake, while the right side displays a vibrant, color-enhanced version that highlights the artistic capabilities of the image transformation toolkit.**
-![Artistic Transformation of a Lakeside Sunset](Snapshots/9.jpg)
+![Artistic Transformation of a Lakeside Sunset](Snapshots/10.jpg)
 
 ## **Abstract Sketch Transformation of a Sunset Scene**
 ### **This panoramic image depicts a stunning lakeside sunset, artistically transformed into a colorful, abstract sketch. The original photo shows a tranquil sunset with vivid autumn colors, while the right side reveals a bold, stylized sketch that accentuates the dynamic contours and textures of the landscape, showcasing the toolkit's ability to creatively reinterpret natural scenes.**
-![Abstract Sketch Transformation of a Sunset Scene](Snapshots/10.jpg)
+![Abstract Sketch Transformation of a Sunset Scene](Snapshots/11.jpg)
