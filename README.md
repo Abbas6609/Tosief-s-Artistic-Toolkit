@@ -18,14 +18,19 @@
 ### **This snapshot shows the successful transformation of a user's uploaded photo into an 'Avatar' style using the toolkit. It features a before and after comparison, showcasing the app's effectiveness in stylizing images.**
 ![Avatar Style Image Transformation Result](Snapshots/3.jpg)
 
-## Avatar Style Image Transformation Result
-This snapshot shows the successful transformation of a user's uploaded photo into an 'Avatar' style using the toolkit. It features a before and after comparison, showcasing the app's effectiveness in stylizing images. The left side displays the original color image of a person in a casual indoor setting, while the right side presents a stylized avatar version, emphasizing bold colors and outlines to create a distinctive artistic effect.
+## **Avatar Style Image Transformation Result**
+### **This snapshot shows the successful transformation of a user's uploaded photo into an 'Avatar' style using the toolkit. It features a before and after comparison, showcasing the app's effectiveness in stylizing images. The left side displays the original color image of a person in a casual indoor setting, while the right side presents a stylized avatar version, emphasizing bold colors and outlines to create a distinctive artistic effect.**
 ![Avatar Style Image Transformation Result](Snapshots/4.jpg)
 
 
 ## **Sketch Style Image Transformation Result**
 ### **The snapshot displays the app's capability to convert a photo into a 'Sketch' style. It shows a side-by-side comparison of the original and transformed image, emphasizing the detailed sketch lines and artistic shading.**
 ![Sketch Style Image Transformation Result](Snapshots/5.jpg)
+
+## **Sketch Style Image Transformation Result**
+### **This snapshot displays the app's capability to convert a photo into a 'Sketch' style. The left side shows the original color image of a person in a casual indoor setting, while the right side presents a transformed sketch version, highlighting detailed lines and artistic shading to create a hand-drawn effect.**
+![Sketch Style Image Transformation Result](Snapshots/6.jpg)
+
 
 ## **Black and White Image Transformation**
 ### **This image shows the transformation of a color photo into a black and white version, illustrating the app's ability to apply classic black and white filters effectively. The left side displays the original color image, portraying a person in a casual setting, while the right side offers a dramatic black and white rendition, emphasizing texture and contrast.**
