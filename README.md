@@ -32,11 +32,12 @@
 
 ## **Background Removal Transformation**
 ### **Demonstrates the app's feature to remove the background from an uploaded image, showing the original and the result side by side. This feature helps users focus on the main subject of the image without any background distractions.**
-![Background Removal Transformation](Snapshots/7.jpg)
+![Sketch and Simple Sketch Style Transformations](Snapshots/8.jpg)
+
 
 ## **Sketch and Simple Sketch Style Transformations**
 ### **This snapshot presents a comparison between two different sketch styles applied to a photo. It shows the versatility of the app in providing various artistic transformations, from detailed sketches to simpler, more abstract versions.**
-![Sketch and Simple Sketch Style Transformations](Snapshots/8.jpg)
+![Background Removal Transformation](Snapshots/7.jpg)
 
 ## **Artistic Transformation of a Lakeside Sunset**
 ### **This image captures the transformation of a breathtaking lakeside sunset into an Avatar-style artistic rendition. The left side of the image showcases the natural beauty of the setting sun over a serene lake, while the right side displays a vibrant, color-enhanced version that highlights the artistic capabilities of the image transformation toolkit.**
