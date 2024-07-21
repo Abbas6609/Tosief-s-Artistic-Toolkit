@@ -27,8 +27,9 @@
 ![Sketch Style Image Transformation Result](Snapshots/5.jpg)
 
 ## **Black and White Image Transformation**
-### **This image shows the transformation of a color photo into a black and white version, illustrating the app's ability to apply classic black and white filters effectively.**
-![Black and White Image Transformation](Snapshots/6.jpg)
+### **This image shows the transformation of a color photo into a black and white version, illustrating the app's ability to apply classic black and white filters effectively. The left side displays the original color image, portraying a person in a casual setting, while the right side offers a dramatic black and white rendition, emphasizing texture and contrast.**
+![Black and White Image Transformation](Snapshots/7.jpg)
+
 
 ## **Background Removal Transformation**
 ### **Demonstrates the app's feature to remove the background from an uploaded image, showing the original and the result side by side. This feature helps users focus on the main subject of the image without any background distractions.**
