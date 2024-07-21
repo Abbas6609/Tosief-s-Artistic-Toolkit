@@ -1,6 +1,6 @@
 ## **🌟 Exciting News from Tosief's Lab! 🌟**
 
-**I'm happy to share my latest creation: **Tosief's Artistic Image Toolkit!** 🎨🖼️ Powered by cutting-edge **AI**, this tool transforms ordinary images into stunning artworks right before your eyes.
+**I'm happy to share my latest creation: **Tosief's Artistic Image Toolkit!** 🎨🖼️ Powered by cutting-edge **AI**, this tool transforms ordinary images into stunning artworks right before your eyes.**
 
 **Key Features:**
 
